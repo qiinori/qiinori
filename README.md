@@ -22,11 +22,5 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![XCode](https://img.shields.io/badge/-XCode-222222?style=flat&logo=XCode&logoColor=1575F9)
 
-##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
-
-```javascript
-// Which came first: the chicken or the egg?
-console.log(['🥚', '🐣', '🐥', '🐔'].sort())
-
->>> [ '🐔', '🐣', '🐥', '🥚' ]
-```
+##### Fun fact: every time my cat touches my computer, music starts playing....
+![Cat](https://media.giphy.com/media/dNgK7Ws7y176U/giphy.gif)
