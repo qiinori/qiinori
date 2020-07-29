@@ -1,8 +1,8 @@
-##### 🌸 Hi, I'm Inori 🌸:
+#### 🌸 Hi, I'm Inori 🌸:
 
-- 🙍‍♀️Computer Science Student at University of Ottawa
-- ✨Seeking an internship
-- 🌱I'm currently learning about Algorithms, Web development, Machine Learning
+- 🙍‍♀️  Computer Science Student at **University of Ottawa**
+- 🌱   I'm currently learning about **Algorithms, Web development, Machine Learning**
+- ✨   Seeking an internship ~  
 
 ##### Programming Languages I use
 
