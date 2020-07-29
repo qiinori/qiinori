@@ -2,7 +2,7 @@
 
 - 🙍‍♀️  Computer Science Student at **University of Ottawa**
 - 🌱   I'm currently learning about **Algorithms, Web development, Machine Learning**
-- ✨   **Seeking an internship ~**
+- ✨  **Seeking an internship~**
 
 ##### Programming Languages I use
 
