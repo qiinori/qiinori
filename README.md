@@ -1,9 +1,11 @@
+
 ##### Hi, I'm Inori:
+
 
 - 🙍‍♀️Computer Science Student at University of Ottawa
 - ✨Seeking an internship
 - 🌱I'm currently learning about web development
-
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
 ##### Languages I use
 
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
@@ -30,3 +32,4 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 
 >>> [ '🐔', '🐣', '🐥', '🥚' ]
 ```
+<!--START_SECTION:activity-->
