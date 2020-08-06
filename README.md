@@ -34,3 +34,5 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 ```
 ![Cat](https://media.giphy.com/media/dNgK7Ws7y176U/giphy.gif)
 <!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
