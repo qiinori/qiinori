@@ -1,11 +1,8 @@
-- name: GitHub - Activity - Readme
-  uses: jamesgeorge007/github-activity-readme@v0.1.7
 name: Update README
 
 on:
   schedule:
     - cron: '*/30 * * * *'
-  workflow_dispatch:
 
 jobs:
   build:
