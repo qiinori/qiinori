@@ -32,7 +32,7 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 
 >>> [ '🐔', '🐣', '🐥', '🥚' ]
 ```
-![Cat](https://media.giphy.com/media/dNgK7Ws7y176U/giphy.gif)
+![Cat](https://github.com/qiinori/qiinori/blob/master/images/pusheencode.gif)
 
 
 <!--START_SECTION:activity-->
