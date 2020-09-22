@@ -1,5 +1,5 @@
 
-#### 🌸 Hi, I'm Inori 🌸:
+#### 🌸 Hi, I'm Jiajie 🌸:
 
 - 🙍‍♀️  Computer Science Student at **University of Ottawa**
 - 🌱   I'm currently learning about **Algorithms, Web development, Machine Learning**
