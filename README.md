@@ -2,8 +2,8 @@
 #### 🌸 Hi, I'm Jiajie 🌸:
 
 - 🙍‍♀️  Computer Science Student at **University of Ottawa**
-- 🌱   I'm currently learning about **Web development, Machine Learning**
-- ✨  **Seeking an internship**
+- 🌱   I'm currently learning about **Machine Learning**
+- ✨  **Seeking an full time job for May**
 
 ##### Programming Languages I use
 
