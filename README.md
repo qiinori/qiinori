@@ -2,7 +2,7 @@
 #### 🌸 Hi, I'm Jiajie 🌸:
 
 - 🙍‍♀️  Computer Science Student at **University of Ottawa**
-- 🌱   I'm currently learning about **Machine Learning**
+- 🌱   I'm currently learning about **Machine Learning, Deep Learning**
 
 ##### Programming Languages I use
 
