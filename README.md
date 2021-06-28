@@ -22,6 +22,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linusx&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![XCode](https://img.shields.io/badge/-XCode-222222?style=flat&logo=XCode&logoColor=1575F9)
+![Azure](https://img.shields.io/badge/-Azure_Cloud-222222?style=flat&logo=XCode&logoColor=azure)
 
 
 ##### ⚡ Fun fact: I once solved the world's oldest question with a single line of JavaScript
