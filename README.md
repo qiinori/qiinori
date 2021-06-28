@@ -13,6 +13,7 @@
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 ![REACT](https://img.shields.io/badge/-REACT-000000?style=flat&logo=react)
+![REACTNATIVE](https://img.shields.io/badge/-REACT-NATIVE-000000?style=flat&logo=react-native)
 
 ##### Some of the technologies I have worked with
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
