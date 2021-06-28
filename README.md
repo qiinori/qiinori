@@ -1,8 +1,7 @@
 
 #### 🌸 Hi, I'm Jiajie 🌸:
 
-- 🙍‍♀️  Computer Science Student at **University of Ottawa**
-- 🌱   I'm currently learning about **Machine Learning, Deep Learning**
+- 📱  Software Developer focus on ios 
 
 ##### Programming Languages I use
 
