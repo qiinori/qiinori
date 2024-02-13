@@ -1,5 +1,5 @@
 
-#### 🌸 Hi, I'm Jiajie 🌸:
+#### 🌸 Hi, I'm Cathy 🌸:
 
 - 📱  Software Developer focus on ios 
 
