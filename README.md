@@ -1,40 +1,72 @@
+<div align="center">
 
-#### 🌸 Hi, I'm Cathy 🌸:
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=60A5FA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Cathy+Lee+%F0%9F%91%8B;Software+Developer;Full-stack+Developer" alt="Typing SVG" />
 
-- 📱  Software Developer focus on ios 
+  **Portfolio: [cathylee.dev](https://cathylee.dev)**
+</div>
 
-##### Programming Languages I use
+---
 
+### 🔍 GET `/api/v1/developers/cathy`
 
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
-![REACT](https://img.shields.io/badge/-REACT-000000?style=flat&logo=react)
-![REACT_NATIVE](https://img.shields.io/badge/-REACT_NATIVE-000000?style=flat&logo=react)
+```typescript
+/**
+ * Response: 200 OK
+ * Powered-By: Coffee-and-Healing-Aesthetics
+ */
+{
+  "profile": {
+    "name": "Cathy Lee",
+    "role": "Full-stack Developer",
+    "location": "Los Angeles, California, USA",
+    "website": "[https://cathylee.dev](https://cathylee.dev)",
+    "status": "Designing peaceful systems"
+  },
 
-##### Some of the technologies I have worked with
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
-![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linusx&logoColor=FCC624)
-![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
-![XCode](https://img.shields.io/badge/-XCode-222222?style=flat&logo=XCode&logoColor=1575F9)
-![Azure](https://img.shields.io/badge/-Azure_Cloud-222222?style=flat&logo=XCode&logoColor=azure)
+  "techStack": {
+    "languages": ["Python", "TypeScript", "Dart", "Swift", "SQL"],
+    "frontend": {
+      "frameworks": ["React", "Next.js", "Tailwind CSS"],
+      "stateManagement": ["Redux", "Zustand", "Context API"],
+      "tools": ["Vite", "Webpack", "ESLint"]
+    },
+    "backend": {
+      "frameworks": ["FastAPI", "Flask", "Node.js (Express)"],
+      "database": ["PostgreSQL", "Redis", "MongoDB", "Prisma"],
+      "auth": ["JWT", "OAuth2", "NextAuth"]
+    },
+    "mobile": ["Flutter", "SwiftUI", "Combine"],
+    "observability": ["Grafana", "Prometheus", "Sentry"],
+    "devops": ["Docker", "Nginx", "GitHub Actions"]
+  },
 
+  "currentFocus": [
+    "iOS Native Development",
+    "UI/UX Design",
+    "Real-time Data Visualization",
+    "Healing Aesthetics in Digital Spaces"
+  ],
 
-##### ⚡ Fun fact: I once solved the world's oldest question with a single line of JavaScript
-
-```javascript
-// Which came first: the chicken or the egg?
-console.log(['🥚', '🐣', '🐥', '🐔'].sort())
-
->>> [ '🐔', '🐣', '🐥', '🥚' ]
+  "interests": {
+    "gaming": ["FFXIV", "League of Legends", "Steam Enthusiast"],
+    "hobbies": ["Ceramics & Glazing", "Vinyl Collecting"],
+    "companions": ["Amber 🐈", "Chengzhi 🐈"]
+  }
+}
 ```
-![Cat](https://github.com/qiinori/qiinori/blob/master/images/pusheencode.gif)
+### 📧 POST    `/api/v1/contact/send-message`
 
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+```TypeScript
+// Request Body (Draft your message)
+{
+  "from": "your_email@example.com",
+  "subject": "Collaboration / Say Hi",
+  "body": "Hi Cathy, I saw your profile and..."
+}
+/**
+ * [Endpoint Action]
+ * Click the link below to trigger the simulated POST request
+ * and open your local mail client.
+ */
+```
+[🚀 **EXECUTE_REQUEST**](mailto:hello@cathylee.dev?subject=Hi%20Cathy!%20(From%20GitHub))
