@@ -48,6 +48,6 @@
 
 <div align="center">
  
-[🚀  **EXECUTE_REQUEST**](mailto:hi@cathylee.dev?subject=Hi%20Cathy!%20(From%20GitHub))
+[🚀  **EXECUTE_REQUEST**](mailto:hi@cathylee.dev?subject=Hi%20Cathy!%20%28From%20GitHub%29)
 
 </div>
