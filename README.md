@@ -10,4 +10,4 @@
 
 - 🧠 **[neural-sketch-recognition](https://neural-sketch-recognition-frontend.vercel.app/)** - Real-time hand-drawn sketch classifier powered by a CNN
 - 🌐 **[cathylee.dev](https://cathylee.dev)** - Personal portfolio with interactive UI, dark mode, and custom cursor
-- 🐱 **[liniecat](https://github.com/liniecat)** - Procedural SVG avatar engine generating 47M+ unique deterministic cat avatars from any string
+- 🐱 **[liniecat](https://liniecat.purrtherapy.studio)** - Procedural SVG avatar engine generating 47M+ unique deterministic cat avatars from any string
