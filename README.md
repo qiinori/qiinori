@@ -9,5 +9,6 @@
 ## Current Projects
 
 - 🧠 **[neural-sketch-recognition](https://neural-sketch-recognition-frontend.vercel.app/)** - Real-time hand-drawn sketch classifier powered by a CNN
+- 💬 **[kupochat](https://kupochat-frontend.vercel.app/)** - Full-stack RAG chat assistant with FastAPI + LangChain, Pinecone vector search, and React SSE streaming
 - 🌐 **[cathylee.dev](https://cathylee.dev)** - Personal portfolio with interactive UI, dark mode, and custom cursor
 - 🐱 **[liniecat](https://liniecat.purrtherapy.studio)** - Procedural SVG avatar engine generating 47M+ unique deterministic cat avatars from any string
